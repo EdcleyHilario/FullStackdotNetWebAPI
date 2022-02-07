@@ -12,7 +12,5 @@ namespace Proeventos.API.Models
         public float ValorIngresso{get;set;}
         public bool Ativo{get;set;}
         public DateTime DataInicio{get;set;} = DateTime.Today;
-
-
     }
 }
